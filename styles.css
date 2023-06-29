@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -31,7 +33,7 @@ body {
 
 .wrapper h2 {
   font-size: 24px;
-  font-weight: bold;
+  font-weight: 700;
   letter-spacing: -1.24px;
   color: #363a40;
   margin-bottom: 15px;
